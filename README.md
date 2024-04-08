@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <hr/>
   <h1>Skills</h1>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,php,laravel,mysql,cpp,java,git,github,linux,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,php,laravel,mysql,c,python,cpp,java,git,github,linux,vscode)](https://skillicons.dev)
  
 <hr/>
 
