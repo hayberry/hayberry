@@ -1,7 +1,5 @@
 ### Hi there 👋
  
-Here are some ideas to get you started:
-
 - 🖥 I’m Software Developer
 - 🌱 I’m currently working as Application implementation Manager
 - 👯 I’m looking to collaborate on laravel
