@@ -18,5 +18,5 @@ Here are some ideas to get you started:
  
 <hr/>
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hayberry&theme=github_dark)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hayberry&theme=github_dark)        ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hayberry&theme=github_dark)
 
