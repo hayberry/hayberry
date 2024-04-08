@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,php,laravel,mysql,cpp,java,git,github,linux,vscode)](https://skillicons.dev)
  
 <hr/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hayberry&theme={theme_name}&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hayberry&theme=github_dark&exclude={exclude})
