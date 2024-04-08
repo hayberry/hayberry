@@ -16,3 +16,4 @@ Here are some ideas to get you started:
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,laravel,mysql,cpp,java,git,github,linux,vscode)](https://skillicons.dev)
  
+  <hr/>
