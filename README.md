@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
   <hr/>
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,laravel,cpp,java,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,laravel,mysql,cpp,java,git,github)](https://skillicons.dev)
  
