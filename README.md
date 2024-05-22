@@ -2,7 +2,7 @@
  
 - 🖥 I’m Software Developer
 - 🌱 I’m currently working as Application Implementation Manager
-- 💻 I’m looking to collaborate on Laravel and MERN Stack
+- 💻 I’m looking to collaborate on Laravel
 - 💬 Ask me about anything about technology
 - 📫 How to reach me: https://wayuberry.com
 - 😄 Pronouns my name as Y-U or Why-You
