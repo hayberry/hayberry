@@ -1,7 +1,7 @@
 ### Hi there 👋
  
 - 🖥 I’m Software Developer
-- 🌱 I’m currently working as Application Implementation Manager
+- 🌱 I’m currently working as Senior Software Developer
 - 💻 I’m looking to collaborate on Laravel
 - 💬 Ask me about anything about technology
 - 📫 How to reach me: https://wayuberry.com
